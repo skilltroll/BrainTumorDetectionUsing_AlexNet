@@ -6,7 +6,7 @@ Get matlab 2020 or newer
 run the matlab code and see the results
 
 
-// use the commaned to open saved figures and results
+// use the commands to open saved figures and results
 openfig('fig-AUC.fig')
 openfig('fig-N-ABN.fig')
 
